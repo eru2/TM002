@@ -9,5 +9,5 @@
 ![image](https://github.com/eru2/TM002/assets/165991738/162786fd-1df1-474b-b921-bb07071c873e)
 
 
-Languages
+# Languages
 <img src="https://img.shields.io/badge/Python-215678?style=for-the-badge&logo=Python&logoColor=white">
