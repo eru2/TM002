@@ -16,9 +16,9 @@
 
 
 Packages
--I. requirements.txt가 있는 경우
-pip install -r requirementx.txt
--II. requirements.txt가 없는 경우
-  pip install opencv-python 
-  pip install pillow 
-  pip install tensorflow==2.12.0
+-I. requirements.txt가 있는 경우  
+pip install -r requirementx.txt  
+-II. requirements.txt가 없는 경우  
+  pip install opencv-python   
+  pip install pillow   
+  pip install tensorflow==2.12.0  
